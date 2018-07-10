@@ -1,0 +1,10 @@
+	//------------------------    <NAme> Application --------------------------
+	/*******************************************************************************************************
+	 - Method Name		:	<method_name>
+	 - Input Parameters	:	<variable name(s)> <data type(s)>
+	 - Return Type		:	<variable name> <data type>
+	 - Throws		:  	<Application_name>Exception
+	 - Author		:	Sai kiran Balmur
+	 - Creation Date	:	11/07/2018
+	 - Description		:	write description of the method in few lines
+	 ********************************************************************************************************/
